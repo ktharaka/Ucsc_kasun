@@ -1,0 +1,8 @@
+EN1101 Enhancement I (Business Communication)
+IS1101 Programming for Problem Solving
+IS1102 Computer Systems
+IS1103 Information Systems Management
+IS1104 Applications Laboratory
+IS1105 Introduction to Management
+IS1106 Discrete Mathematics
+IS1107 Interactive Media Design
